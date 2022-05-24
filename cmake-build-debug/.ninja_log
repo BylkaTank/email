@@ -1,0 +1,15 @@
+# ninja log v5
+0	341	6743083418044622	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+343	486	6743083419481952	email.exe	1ecdddf1a2f42ca5
+2	412	6743086553073684	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+413	542	6743086554344765	email.exe	1ecdddf1a2f42ca5
+2	360	6743087506737435	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+361	514	6743087508195882	email.exe	1ecdddf1a2f42ca5
+3	509	6743090256447986	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+510	669	6743090258014804	email.exe	1ecdddf1a2f42ca5
+3	350	6743091849469304	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+350	489	6743091850848200	email.exe	1ecdddf1a2f42ca5
+3	349	6743093228224576	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+350	495	6743093229678084	email.exe	1ecdddf1a2f42ca5
+2	359	6743095260986033	CMakeFiles/email.dir/main.cpp.obj	8dbf75abd315fd
+359	510	6743095262474131	email.exe	1ecdddf1a2f42ca5
